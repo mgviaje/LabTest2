@@ -1,0 +1,11 @@
+h4 {
+    font-weight: 700;
+    font-style: italic;
+    color: aliceblue;
+}
+
+body {
+    background-image: url(bgtest.jpg);
+    color: aliceblue;
+}
+
